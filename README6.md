@@ -1,3 +1,0 @@
-# geekbang-lessonsasfafs
-asdafsfasdf
-asdf
