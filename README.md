@@ -1,3 +1,2 @@
 # geekbang-lessonsasfafs
-asdfasdf
-asdfas
+asdafsfas
